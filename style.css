@@ -6,5 +6,10 @@ body {
     background-image: url("Bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
-    text-emphasis-color: #f7f7f7;
+  }
+  .jumbotron h1{
+      color: cornsilk;
+  }
+  .jumbotron p{
+      color: cornsilk;
   }
