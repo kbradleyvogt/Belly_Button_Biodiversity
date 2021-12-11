@@ -6,4 +6,5 @@ body {
     background-image: url("Bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
+    text-emphasis-color: #f7f7f7;
   }
